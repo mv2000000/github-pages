@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="marigold.css">
+        <title>Marigold Animal Crossing</title>
+    </head>
+    <body>
+        <header class="text">
+            <h1>Welcome to Marigold</h1>
+            <nav>
+                <ul class="nav_bar"> 
+                    <li>Marigold</li>
+                    <li>Residents</li>
+                    <li>Locations</li>
+                    <li>Contact</li>
+                </ul>
+            </nav>
+            <br>
+        </header>
+        <main>
+        <img src="town_photo.png" alt="Marigold town plaza" class=main_image>
+        <p class="text">Welcome to the Animal Crossing: New Horizons town of Marigold. Centered in the northern hemisphere within the United States, Marigold is currently
+            experiencing its winter season.
+        </p>
+        <h2>Meet The Villagers</h2>
+        <div id="villager_photos">
+        <img src="Ankha_NH.png" alt="Ankha" class=villager_image>
+        <img src="kid_cat_newleaf.png" alt="Kid Cat" class=villager_image>
+        <img src="150px-Tom_NH.png" alt="Tom" class=villager_image>
+        <img src="katt_nh.png" alt="Katt" class=villager_image>
+        </div>
+        </main>
+        <footer class="contact, text">
+            <p>For inquires about Marigold contact  <a href="nookinc@gmail.com">nookinc.com</a></p>
+        </footer>
+    </body>
+</html>
